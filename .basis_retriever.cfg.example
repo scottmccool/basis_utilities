@@ -1,0 +1,12 @@
+{
+  "basis": {
+    "username": "me@mydomain.com",
+    "password": "hunter1"
+  },
+  "fitbit": {
+    "consumer_key": "See https://wiki.fitbit.com/display/API/Fitbit+API",
+    "consumer_secret": "See above",
+    "resource_owner_key": "See https://wiki.fitbit.com/display/API/Fitbit+API",
+    "resource_owner_secret": "See above"
+  }
+}
