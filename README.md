@@ -33,8 +33,12 @@ Configuration
 
 Usage
 ==
-python basis_retriever.py [YYYY-MM-DD]
-python basis_steps_to_fitbit.py [YYYY-MM-DD]
+  * (onetime) mkdir {data,graphs}
+  * (onetime) pip install requests fitbit json matplotlib
+  * (onetime) create .basis_retrierver.cfg
+  * python basis_retriever.py [YYYY-MM-DD]
+  * python basis_steps_to_fitbit.py [YYYY-MM-DD]
+  * python scatterplot_metrics.py heartrate
 
 Caveats
 ==
